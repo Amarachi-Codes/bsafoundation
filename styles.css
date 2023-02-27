@@ -394,7 +394,8 @@ label{
 		line-height: 30px;
 	}
 	#mobile{
-		display: flex;	
+		display: flex;
+		justify-content: flex-end;
 	}
 	#mobile i{
 		color: #1a1a1a;
